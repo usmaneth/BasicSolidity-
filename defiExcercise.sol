@@ -1,8 +1,4 @@
 
-Usman Asim <usmanasim27@gmail.com>
-Fri, Feb 4, 8:59 PM
-to me
-
 // Excercise in Defi
 /*
 
