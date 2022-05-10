@@ -17,7 +17,7 @@ pragma solidity > 0.7.0 < 0.9.0;
 
 
 //my version >:)
-    contract defiExcercise{
+    contract defiExcercise {
         uint stakingWallet = 10; 
          
 
