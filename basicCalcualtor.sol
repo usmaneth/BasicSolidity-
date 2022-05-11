@@ -7,7 +7,7 @@ contract basicCalculator {
         return result; 
     }
 
-    function subtraction(uint a, uint b) public view returns(uint) { 
+    function subtraction (uint a, uint b) public view returns(uint) { 
         uint result = a - b; 
         return result; 
     }
