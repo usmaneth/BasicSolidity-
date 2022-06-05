@@ -1,3 +1,5 @@
+pragma soliity ^0.8.0;
+
 contract Blackjack {
 
 // Define our game rules here
